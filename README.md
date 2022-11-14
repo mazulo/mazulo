@@ -44,11 +44,11 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/nicoddemus/pytest-rich/issues/74) in [nicoddemus/pytest-rich](https://github.com/nicoddemus/pytest-rich)
-2. 🗣 Commented on [#74](https://github.com/nicoddemus/pytest-rich/issues/74) in [nicoddemus/pytest-rich](https://github.com/nicoddemus/pytest-rich)
-3. ❗️ Opened issue [#74](https://github.com/nicoddemus/pytest-rich/issues/74) in [nicoddemus/pytest-rich](https://github.com/nicoddemus/pytest-rich)
-4. 🗣 Commented on [#365](https://github.com/model-bakers/model_bakery/issues/365) in [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery)
-5. 💪 Opened PR [#365](https://github.com/model-bakers/model_bakery/pull/365) in [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery)
+1. 🎉 Merged PR [#12](https://github.com/mazulo/pynews_cli/pull/12) in [mazulo/pynews_cli](https://github.com/mazulo/pynews_cli)
+2. 💪 Opened PR [#12](https://github.com/mazulo/pynews_cli/pull/12) in [mazulo/pynews_cli](https://github.com/mazulo/pynews_cli)
+3. 🗣 Commented on [#74](https://github.com/nicoddemus/pytest-rich/issues/74) in [nicoddemus/pytest-rich](https://github.com/nicoddemus/pytest-rich)
+4. 🗣 Commented on [#74](https://github.com/nicoddemus/pytest-rich/issues/74) in [nicoddemus/pytest-rich](https://github.com/nicoddemus/pytest-rich)
+5. ❗️ Opened issue [#74](https://github.com/nicoddemus/pytest-rich/issues/74) in [nicoddemus/pytest-rich](https://github.com/nicoddemus/pytest-rich)
 <!--END_SECTION:activity-->
 
 <!--
