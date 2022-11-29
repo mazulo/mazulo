@@ -44,10 +44,10 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
-2. 🎉 Merged PR [#12](https://github.com/mazulo/pynews_cli/pull/12) in [mazulo/pynews_cli](https://github.com/mazulo/pynews_cli)
-3. 💪 Opened PR [#12](https://github.com/mazulo/pynews_cli/pull/12) in [mazulo/pynews_cli](https://github.com/mazulo/pynews_cli)
-4. 🗣 Commented on [#74](https://github.com/nicoddemus/pytest-rich/issues/74) in [nicoddemus/pytest-rich](https://github.com/nicoddemus/pytest-rich)
+1. 🗣 Commented on [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
+2. ❗️ Opened issue [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
+3. 🎉 Merged PR [#12](https://github.com/mazulo/pynews_cli/pull/12) in [mazulo/pynews_cli](https://github.com/mazulo/pynews_cli)
+4. 💪 Opened PR [#12](https://github.com/mazulo/pynews_cli/pull/12) in [mazulo/pynews_cli](https://github.com/mazulo/pynews_cli)
 5. 🗣 Commented on [#74](https://github.com/nicoddemus/pytest-rich/issues/74) in [nicoddemus/pytest-rich](https://github.com/nicoddemus/pytest-rich)
 <!--END_SECTION:activity-->
 
