@@ -44,11 +44,11 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
-2. 🗣 Commented on [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
+1. 💪 Opened PR [#122](https://github.com/carta/.github/pull/122) in [carta/.github](https://github.com/carta/.github)
+2. ❗️ Closed issue [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
 3. 🗣 Commented on [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
-4. ❗️ Opened issue [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
-5. 🎉 Merged PR [#12](https://github.com/mazulo/pynews_cli/pull/12) in [mazulo/pynews_cli](https://github.com/mazulo/pynews_cli)
+4. 🗣 Commented on [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
+5. ❗️ Opened issue [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
 <!--END_SECTION:activity-->
 
 <!--
