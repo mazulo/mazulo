@@ -44,11 +44,11 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#122](https://github.com/carta/.github/pull/122) in [carta/.github](https://github.com/carta/.github)
-2. ❗️ Closed issue [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
-3. 🗣 Commented on [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
-4. 🗣 Commented on [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
-5. ❗️ Opened issue [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
+1. ❌ Closed PR [#122](https://github.com/carta/.github/pull/122) in [carta/.github](https://github.com/carta/.github)
+2. 🗣 Commented on [#122](https://github.com/carta/.github/issues/122) in [carta/.github](https://github.com/carta/.github)
+3. 💪 Opened PR [#122](https://github.com/carta/.github/pull/122) in [carta/.github](https://github.com/carta/.github)
+4. ❗️ Closed issue [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
+5. 🗣 Commented on [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
 <!--END_SECTION:activity-->
 
 <!--
