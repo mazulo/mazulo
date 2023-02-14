@@ -44,11 +44,11 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#122](https://github.com/carta/.github/pull/122) in [carta/.github](https://github.com/carta/.github)
-2. 🗣 Commented on [#122](https://github.com/carta/.github/issues/122) in [carta/.github](https://github.com/carta/.github)
-3. 💪 Opened PR [#122](https://github.com/carta/.github/pull/122) in [carta/.github](https://github.com/carta/.github)
-4. ❗️ Closed issue [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
-5. 🗣 Commented on [#160](https://github.com/snyk-tech-services/snyk-delta/issues/160) in [snyk-tech-services/snyk-delta](https://github.com/snyk-tech-services/snyk-delta)
+1. 🎉 Merged PR [#20](https://github.com/mazulo/misspelling/pull/20) in [mazulo/misspelling](https://github.com/mazulo/misspelling)
+2. 💪 Opened PR [#20](https://github.com/mazulo/misspelling/pull/20) in [mazulo/misspelling](https://github.com/mazulo/misspelling)
+3. 🎉 Merged PR [#19](https://github.com/mazulo/misspelling/pull/19) in [mazulo/misspelling](https://github.com/mazulo/misspelling)
+4. 💪 Opened PR [#19](https://github.com/mazulo/misspelling/pull/19) in [mazulo/misspelling](https://github.com/mazulo/misspelling)
+5. 🎉 Merged PR [#2](https://github.com/mazulo/misspellings/pull/2) in [mazulo/misspellings](https://github.com/mazulo/misspellings)
 <!--END_SECTION:activity-->
 
 <!--
