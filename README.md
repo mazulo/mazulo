@@ -44,11 +44,11 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/mazulo/misspelling/pull/21) in [mazulo/misspelling](https://github.com/mazulo/misspelling)
-2. 💪 Opened PR [#21](https://github.com/mazulo/misspelling/pull/21) in [mazulo/misspelling](https://github.com/mazulo/misspelling)
-3. 🎉 Merged PR [#20](https://github.com/mazulo/misspelling/pull/20) in [mazulo/misspelling](https://github.com/mazulo/misspelling)
-4. 💪 Opened PR [#20](https://github.com/mazulo/misspelling/pull/20) in [mazulo/misspelling](https://github.com/mazulo/misspelling)
-5. 🎉 Merged PR [#19](https://github.com/mazulo/misspelling/pull/19) in [mazulo/misspelling](https://github.com/mazulo/misspelling)
+1. 🗣 Commented on [#531](https://github.com/django-polymorphic/django-polymorphic/issues/531) in [django-polymorphic/django-polymorphic](https://github.com/django-polymorphic/django-polymorphic)
+2. 🎉 Merged PR [#21](https://github.com/mazulo/misspelling/pull/21) in [mazulo/misspelling](https://github.com/mazulo/misspelling)
+3. 💪 Opened PR [#21](https://github.com/mazulo/misspelling/pull/21) in [mazulo/misspelling](https://github.com/mazulo/misspelling)
+4. 🎉 Merged PR [#20](https://github.com/mazulo/misspelling/pull/20) in [mazulo/misspelling](https://github.com/mazulo/misspelling)
+5. 💪 Opened PR [#20](https://github.com/mazulo/misspelling/pull/20) in [mazulo/misspelling](https://github.com/mazulo/misspelling)
 <!--END_SECTION:activity-->
 
 <!--
